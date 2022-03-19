@@ -15,6 +15,14 @@ public class Calculadora {
         
         Suma Suma1=new Suma();
         System.out.println(Suma1.sumar(pnumero, snumero));
+        
+        System.out.println(Suma1.restar(pnumero, snumero));
+        
+        System.out.println(Suma1.multiplicar(pnumero, snumero));
+        
+        System.out.println(Suma1.dividir(pnumero, snumero));
+        
+      
 
     }
     
